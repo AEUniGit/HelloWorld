@@ -9,3 +9,5 @@ Test
 This is a commit
 
 This is a second commit, with a comment.
+
+This is a branch.
